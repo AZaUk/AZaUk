@@ -9,8 +9,8 @@ I'm a passionate **Computer Science** student at **Saxion University of Applied 
 ## 👨‍💻 About Me
 
 - 🎓 Currently pursuing my Bachelor's in Computer Science.
-- 🌎 Started in the Netherlands, now based in Spain and am looking for an internship in Canada!
-- 💬 I love **software development**, **AI/ML**, and **cybersecurity** — and I believe AI will shape the future for all of us.
+- 🌎 Started in the Netherlands, continued academic and cultural exploration in Spain, and now looking for an internship in North America!
+- 💬 Love **software development**, **AI/ML**, and **cybersecurity** — and I believe AI will shape the future for all of us.
 - 📱 Built a **Flutter Android app** during 2022–2023, and previously developed a **Windows-based voice assistant** in **Python** back in high school.
 - 🤖 Created a **mask detection system** during COVID-19 to support safer school environments.
 - 💼 Completed a professional internship at **Capgemini**, developing AI tools to modernize legacy systems and onboarding processes.
@@ -22,7 +22,7 @@ I'm a passionate **Computer Science** student at **Saxion University of Applied 
 
 - Expanding into **application development**.
 - Diving deeper into **”artificial intelligence”** and **machine learning applications**.
-- Exploring the intersection between **artificial intelligence and cybersecurity**.
+- Exploring the intersection between **"artificial intelligence" and cybersecurity**.
 
 ---
 
