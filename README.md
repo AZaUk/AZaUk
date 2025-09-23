@@ -2,14 +2,14 @@
 
 Welcome to my GitHub!
 
-I'm a passionate **Computer Science** student at **Saxion University of Applied Sciences**, currently in my third year. Alongside my studies, I've been actively building my skills through real-world internships, freelance projects, and personal explorations in tech.
+I'm a passionate **Computer Science** student at **Saxion University of Applied Sciences**, currently in my fourth year. Alongside my studies, I've been actively building my skills through real-world internships, freelance projects, and personal explorations in tech.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Currently pursuing my Bachelor's in Computer Science.
-- 🌎 Started in the Netherlands, continued academic and cultural exploration in Spain, and now looking for an internship in North America!
+- 🌎 Started in the Netherlands, continued academic and cultural exploration in Spain, and now looking for an internship in Canada!
 - 💬 Love **software development**, **AI/ML**, and **cybersecurity** — and I believe AI will shape the future for all of us.
 - 📱 Built a **Flutter Android app** during 2022–2023, and previously developed a **Windows-based voice assistant** in **Python** back in high school.
 - 🤖 Created a **mask detection system** during COVID-19 to support safer school environments.
