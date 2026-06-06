@@ -9,8 +9,7 @@ I'm a passionate **Computer Science** student at **Saxion University of Applied 
 ## 👨‍💻 About Me
 
 - 🎓 Currently pursuing my Bachelor's in Computer Science.
-- 🌎 Started in the Netherlands, continued academic and cultural exploration in Spain, and now looking for an internship in Canada!
-- 💬 Love **software development**, **AI/ML**, and **cybersecurity** — and I believe AI will shape the future for all of us.
+- 💬 Love **software development**, **AI/ML**, and **cybersecurity**.
 - 📱 Built a **Flutter Android app** during 2022–2023, and previously developed a **Windows-based voice assistant** in **Python** back in high school.
 - 🤖 Created a **mask detection system** during COVID-19 to support safer school environments.
 - 💼 Completed a professional internship at **Capgemini**, developing AI tools to modernize legacy systems and onboarding processes.
@@ -40,7 +39,8 @@ I'm a passionate **Computer Science** student at **Saxion University of Applied 
 
 - [The Weather Brigade](https://github.com/AZaUk/TheWeatherBrigade) — Real-time weather data app developed with a team.
 - [Voice Assistant (Elsi)](https://elsi.sealzi.com/) — Early AI-based voice assistant built with Python and later iterated with C#.
-- [Flutter Mobile App](https://github.com/AZaUk/FlutterCalculator) — A cross-platform Android app project for 2022–2023.
+- [Password Manager (Vauz)](https://vauz.sealzi.com/) — Private Per-Device Password Manager with Zero Downtime and Proprietary Encryption.
+- [Self Driving Car](https://github.com/AZaUk/self-driving-car) — Arduino-powered autonomous car that follows a white line, avoids obstacles and climbs hills.
 - Mask Detection System — Machine learning project during COVID-19 to improve school safety.
 
 ---
